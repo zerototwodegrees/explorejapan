@@ -1,0 +1,15 @@
+table {
+	font-family: Arial;
+	border: 2px solid #eee;
+}
+
+tr:nth-child(even) {
+	background-color: #eee;
+}
+
+td {
+	padding: 10px;
+}
+<!--Build around a proper color pallete using red and possibly black + grey-->
+<!--Rereview idea of Accessibility/further develop it-->
+<!--If map can't be build in CSS, refer to javascript-->
