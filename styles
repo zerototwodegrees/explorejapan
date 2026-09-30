@@ -13,3 +13,24 @@ td {
 <!--Build around a proper color pallete using red and possibly black + grey-->
 <!--Rereview idea of Accessibility/further develop it-->
 <!--If map can't be build in CSS, refer to javascript-->
+
+<!-->Test in shape svg concept for map prototype-->
+.triangle-btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 200px;
+  background-color: #e74c3c;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  cursor: pointer;
+  transition: background-color 0.7s;
+}
+
+
+.triangle-btn:hover {
+  background-color: #c0392b;
+}
