@@ -1,1 +1,77 @@
-# explorejapan
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Explore Japan!</title>
+	</head>
+<header>
+	<nav> 	<a href="link1">Link one<a>
+			<a href="link2">Link two<a>
+			<a href="link3">Link three<a>
+			<a href="link4">Link four<a>
+			<a href="Accessibility.html">Accessibility Page<a>
+
+	<p><h1>Explore Japan and Its Prefectures!</h1></p>
+
+
+</header>
+	<body>
+	<p>If you would like to learn about different places in Japan and what you can do their if you decide to visit, click a prefecture on the map and it will take you to some of its key locations that you should visist!<p>
+	
+	<!-- a map of sorts must be here, even if it is a placeholder-->
+	
+<table> <!-- make the table more refined by refering back to 2.13 Lab fpr best simple design or also add ul into the table-->
+	<caption>Key locations!</caption>
+	<tr>
+		<th>Image</th>
+		<th>Prefecture</th>
+		<th>About</th>
+	</tr>
+	<tr>
+		<td><img src="" alt=""></td>
+		<td>Hokkaido</td>
+		<td>Sapporo stuff</td>
+		
+	</tr>
+	<tr>
+		<td><img src="" alt=""></td>
+		<td>Akita</td>
+		<td>Inu dog/Oni ogre</td>
+	</tr>
+	<tr>
+																																																												<td><img src="" alt=""></td>87hj
+		<td>Saitama</td>
+		<td>Nice mall and near Tokyo</td>
+	</tr>
+	<tr>
+		<td><img src="" alt=""></td>
+		<td>Nagano</td>
+		<td>Out of the way, but also close to other places</td>
+	</tr>
+	<tr>
+		<td><img src="" alt=""></td>
+		<td>Tottori</td>
+		<td>Sandy beaches + Pretty place</td>
+	</tr>
+	<tr>
+		<td><img src="" alt=""></td>
+		<td>Fukuoka</td>
+		<td>Dutch Port</td>
+	</tr>
+	<tr>
+		<td><img src="" alt=""></td>
+		<td>Nagasaki</td>
+		<td>Interesting place and region/history</td>
+	</tr>
+</table>
+</body>
+<footer>2026&copy;</footer
+
+<!--add nav stuff as well as links to JP resources-->
+<!--Hyperlink to country pages from map on locations-->
+<!--index.html needs to be added-->
+<!--5 seperate pages must be unique-->
+<!--implement better CSS style-->
+<!--perhaps a javascript that gives better deisgn and shape? look into a more functioning map with prefecture names-->
+<!--video is gonna be key for webpages of certain prefectures-->
+<!--try and integrate the widgets better, perhaps with stuff like form and drop down menus, even in nav or under nav directly below header-->
+<!--fieldset design over a vote that could be displayed would be smart, perhpas place people would to visit or have been-->
