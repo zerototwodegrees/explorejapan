@@ -1,12 +1,24 @@
-header { color: red; 
-}
-div {
-  font-family: Helvetica
-}
 
+	background-color: gray;
+	color: rgb(230, 0, 0);
+    } 
+
+body {
+      background-color: rgb(85, 0, 0);
+	  color: rgb(230, 0, 0);
+    } 
+	
+div {
+  font-family: Helvetica; 
+  font-size: 16px;
+    } 
+	
 table {
 	font-family: Arial;
 	border: 2px solid #eee;
+}
+ text {
+  font-size: 16px;
 }
 
 tr:nth-child(even) {
@@ -17,6 +29,7 @@ td {
 	padding: 10px;
 }
 <!--Build around a proper color pallete using red and possibly black + grey-->
+<!--Red and orange with blue or green
 <!--Rereview idea of Accessibility/further develop it-->
 <!--If map can't be build in CSS, refer to javascript-->
 
