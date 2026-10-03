@@ -1,4 +1,4 @@
-
+nav {
 	background-color: gray;
 	color: rgb(230, 0, 0);
     } 
@@ -49,6 +49,10 @@ td {
   transition: background-color 0.7s;
 }
 
+
+.triangle-btn:hover {
+  background-color: #c0392b;
+}
 
 .triangle-btn:hover {
   background-color: #c0392b;
